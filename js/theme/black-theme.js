@@ -1,7 +1,7 @@
 var blackTheme = {
     'common.bi.image': 'img/tui-image-editor-bi.png',
-    'common.bisize.width': '251px',
-    'common.bisize.height': '21px',
+    'common.bisize.width': '170px',
+    'common.bisize.height': '50px',
     'common.backgroundImage': 'none',
     'common.backgroundColor': '#1e1e1e',
     'common.border': '0px',
