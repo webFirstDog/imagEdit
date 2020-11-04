@@ -49,7 +49,7 @@ body > textarea {
 .tui-image-editor-container .tui-image-editor-controls-logo {
   float: left;
   width: 30%;
-  padding: 17px;
+  /* padding: 17px; */
 }
 .tui-image-editor-container .tui-image-editor-controls-logo,
 .tui-image-editor-container .tui-image-editor-controls-buttons {
